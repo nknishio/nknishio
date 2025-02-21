@@ -1,6 +1,6 @@
 **Hi, I’m Nelson, a junior at BASIS Independent Silicon Valley. I'm interested in pursuing scientific research in machine learning, statistics, computational biology/bioinformatics, biomedical engineering, and quantum computing.**
 
-Below are some projects I've worked on (click on titles for details, papers, and more!):
+Below are some projects I've worked on _(click on titles for details, papers, and more!)_:
 
 - **[Early Detection and Severity Classification of Diabetic Retinopathy Through Image Processing and Deep Learning](https://github.com/nknishio/Diabetic-Retinopathy)**
   - Novel image processing techniques for retina fundus scans

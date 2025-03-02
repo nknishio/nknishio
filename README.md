@@ -8,7 +8,7 @@ Below are some projects I've worked on _(click on titles for details, papers, an
   - Severity level classification for 5 stages of diabetic retinopathy: Healthy, Mild, Moderate, Severe, Proliferate
   - App development for real-time screening
   
-- 🧠 **[Magnification Independent Multi-Classification of Breast Cancer in Histopathology Images Using Deep Learning](https://github.com/nknishio/Breast-Cancer)**
+- 💉 **[Magnification Independent Multi-Classification of Breast Cancer in Histopathology Images Using Deep Learning](https://github.com/nknishio/Breast-Cancer)**
   - Image processing/normalization techniques
   - Tackling breast cancer classification tasks for 8 different classes from histopathology images
 ---

@@ -15,3 +15,8 @@ Below are some projects I've worked on _(click on titles for details, papers, an
   - Color manipulations/image processing for spinal X-rays
   - Use of both classical CNNs and quantum CNNs (Q-CNNs) to classify cervical spondylosis
   - Comparative analysis of quantum computing vs deep learning
+  
+- **[Using Natural Language Processing and Machine Learning to Detect Sarcasm in Online Media](https://github.com/nknishio/Sarcasm-Detection)**
+  - Preprocessing text data
+  - Tokenization -> Contextual word embeddings
+  - Development of browser extensions for practical use

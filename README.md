@@ -10,7 +10,9 @@ Below are some projects I've worked on _(click on titles for details, papers, an
 - **[Magnification Independent Multi-Classification of Breast Cancer in Histopathology Images Using Deep Learning](https://github.com/nknishio/Breast-Cancer)**
   - Image processing/normalization techniques
   - Tackling breast cancer classification tasks for 8 different classes from histopathology images
-    
+
+Here are some (but not all) of my ongoing projects:
+
 - **[Evaluating the Effects of Color and Image Manipulation on Classification of Cervical Spondylosis X-Ray images using Deep Learning](https://github.com/nknishio/Cervical-Spondylosis)**
   - Color manipulations/image processing for spinal X-rays
   - Use of both classical CNNs and quantum CNNs (Q-CNNs) to classify cervical spondylosis

@@ -22,4 +22,4 @@ Here are some (but not all) of my ongoing projects (may not be completely update
 - 🗣️ **[Using Natural Language Processing and Machine Learning to Detect Sarcasm in Online Media](https://github.com/nknishio/Sarcasm-Detection)**
   - Preprocessing text data
   - Tokenization -> Contextual word embeddings
-  - Development of browser extensions for practical use
+  - Development of browser extensions using explainable AI for practical use
